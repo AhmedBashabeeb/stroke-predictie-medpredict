@@ -220,3 +220,6 @@ __marimo__/
 *.csv
 data/
 referentie/
+.ipynb_checkpoints/
+__pycache__/
+CLAUDE.md
