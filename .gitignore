@@ -219,7 +219,6 @@ __marimo__/
 .DS_Store
 *.csv
 data/
-referentie/
 .ipynb_checkpoints/
 __pycache__/
-CLAUDE.md
+voorbeeld/
